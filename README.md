@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm Fathima Mubarak 👋
 
-<!--
-**fathimamubarak/fathimamubarak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Aspiring Software Developer | Creative Entrepreneur
 
-Here are some ideas to get you started:
+I enjoy turning ideas into practical solutions through code. I'm currently strengthening my programming fundamentals, exploring web development, and building projects that help me learn by doing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BCA student exploring software development
+- 💻 Learning Java, Data Structures, and web technologies
+- 🏗️ Building **SmartOffice**, an office and visitor management system
+- 🧶 Running a crochet business alongside my tech journey
+- 🌱 Focused on learning, creating, and improving one project at a time
+
+### 🛠️ Technologies & Tools
+
+HTML · CSS · JavaScript · Node.js · Express.js · MongoDB · Git · GitHub
+
+### 🚀 Featured Project
+
+**SmartOffice — Office Visitor Management System**
+
+A web-based project designed to manage visitor registrations, visitor records, approvals, check-ins, check-outs, and visitor passes.
+
+🔗 [Explore my projects](https://github.com/fathimamubarak?tab=repositories)
+
+### 🌿 A little about me
+
+I'm interested in the intersection of technology, creativity, and problem-solving. My goal is to keep building useful projects, develop strong programming fundamentals, and grow into a confident software developer.
+
+---
+
+*Learning with curiosity. Building with purpose. Growing with every commit.* ✨
